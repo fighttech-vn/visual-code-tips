@@ -1,7 +1,8 @@
 # visual-code
 
 Auto format on Save Visual Code
-```
+
+```bash
 
   "editor.codeActionsOnSave": {
     "source.fixAll": true,
